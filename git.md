@@ -33,3 +33,17 @@ comandi usati
    origin https://github.com/gabgigante/portfolio-studente-github.git (push)
 4. git add README.md
 5. git add git.md
+6. git commit -m "Quinto commit: aggiunta di git.md alla repository e di descrizione Git a README.md"
+7. git status
+   On branch main
+   Your branch is up to date with 'origin/main'.
+
+   nothing to commit, working tree clean
+
+8. git log --oneline
+   0b4e8c4 (HEAD -> main, origin/main) no comment
+   d5595af Quinto commit: aggiunta di git.md alla repository e di descrizione Git a README.md
+   f1f0622 Quarto commit: Stesura finale di readme.md
+   66c5c24 Terzo commit: aggiunta la sezione -Progetti-
+   9add01e Secondo commit: aggiunta contenuto iniziale ai file index.html e style.css
+   ecc1aa6 Primo commit: aggiunta struttura iniziale del progetto
